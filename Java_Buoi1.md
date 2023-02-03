@@ -196,6 +196,7 @@ Chuỗi nmdse có chứa các chữ cái: true
     - Lớp và Interface
  ### **3.1. Encapsulation** 
  Tính đóng gói trong java là kỹ thuật ẩn giấu thông tin không liên quan và hiện thị ra thông liên quan. 
+ 
  ![Encapsulation](https://viettuts.vn/images/java/tinh-dong-goi-trong-java.jpg "Encapsulation")
 
  ```java
@@ -214,12 +215,14 @@ public class Student {
  - Khi kế thừa class con được hưởng tất cả các phương thức và thuộc tính của class cha, và có thể có thêm thuộc tính, phương thức của riêng mình. 
  - Class con chỉ được truy cập các thành viên `public` và `protected` của class cha, không được phép truy cập đến thành viên `private` của class cha.
  - Cú pháp: Sử dụng từ khóa `extends` để kế thừa
+
 ```java
 class Subclass_name extends Superclass_name {  
    //methods and fields
 }
 ```
 - Một số kiểu kế thừa
+
 ![Inheritance](https://viettuts.vn/images/java/cac-kieu-ke-thua.jpg "Inheritance")
 
 ```java
@@ -269,7 +272,9 @@ meowww~~
 - Có hai loại Access Modifier trong Java, đó là: `Access Modifier` và `Non-access Modifier`
 - `Access Modifer` trong Java xác định phạm vi có thể truy cập của biến, phương thức, constructor hoặc lớp.
 - Có 4 phạm vi truy cập của Access Modifier như sau: `private`, `default`, `protected`, `public`
+
 ![Common Modifiers](https://media.geeksforgeeks.org/wp-content/uploads/20220504160344/ModifiersTypesInJavapng.jpg "Common Modifiers")
+
 - Có nhiều Non-access Modifier như  `static`, `abstract`, `synchronized`, `native`, `volatile`,...
 
  ### **3.5. Modifier static**
