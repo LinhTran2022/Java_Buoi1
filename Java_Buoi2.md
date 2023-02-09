@@ -12,19 +12,16 @@
 - `Collections` trong java là một khuôn khổ cung cấp một kiến trúc để lưu trữ và thao tác tới nhóm các đối tượng
 - Có thể thực hiện các thao tác trên dữ liệu như tìm kiếm, phân loại, chèn, xóa,... sử dụng Java Collections.
 
-<img src="https://viettuts.vn/images/java/java-collection/colection-vs-collections-trong-java.png" 
-        alt="Picture" 
-        width="400" 
-        height="150" 
-        style="display: block; margin: 0 auto" />
+<p align="center">
+    <img src="https://viettuts.vn/images/java/java-collection/colection-vs-collections-trong-java.png">
+p>
 
 ### **1.2 Hệ thống cấp bậc Collection**
 Gói `java.util` chứa tất cả các lớp và interface của Collection.
-<img src="https://viettuts.vn/images/java/java-collection/he-thong-cap-bac-colection-trong-java.png" 
-        alt="Picture" 
-        width="500" 
-        height="300" 
-        style="display: block; margin: 0 auto" />
+
+<p align="center">
+    <img src="https://viettuts.vn/images/java/java-collection/he-thong-cap-bac-colection-trong-java.png">
+p>
 
 **Iterable interface** : chứa dữ liệu thành viên Iterator interface
 
