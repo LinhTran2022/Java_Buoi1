@@ -14,14 +14,12 @@
 
 <p align="center">
     <img src="https://viettuts.vn/images/java/java-collection/colection-vs-collections-trong-java.png">
-p>
 
 ### **1.2 Hệ thống cấp bậc Collection**
 Gói `java.util` chứa tất cả các lớp và interface của Collection.
 
 <p align="center">
     <img src="https://viettuts.vn/images/java/java-collection/he-thong-cap-bac-colection-trong-java.png">
-p>
 
 **Iterable interface** : chứa dữ liệu thành viên Iterator interface
 
