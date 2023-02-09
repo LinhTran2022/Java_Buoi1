@@ -19,7 +19,7 @@
 Gói `java.util` chứa tất cả các lớp và interface của Collection.
 
 <p align="center">
-    <img src="https://static.javatpoint.com/images/java-collection-hierarchy.png">
+    <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200811210521/Collection-Framework-1.png">
 
 **Iterable interface** : chứa dữ liệu thành viên Iterator interface
 
